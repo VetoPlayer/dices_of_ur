@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/enemyFlyingAlt_1.png-80b8494e707731735ddf4275cbba85ef.stex"
+path="res://.import/DiceLogo.png-08dd107b576c11c3b6d74bbc4a4f0ca9.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/dodge_assets/art/enemyFlyingAlt_1.png"
-dest_files=[ "res://.import/enemyFlyingAlt_1.png-80b8494e707731735ddf4275cbba85ef.stex" ]
+source_file="res://Assets/art/DiceLogo.png"
+dest_files=[ "res://.import/DiceLogo.png-08dd107b576c11c3b6d74bbc4a4f0ca9.stex" ]
 
 [params]
 
